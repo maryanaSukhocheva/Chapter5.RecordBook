@@ -14,5 +14,5 @@ public class Main {
     public static void main(String[] args) {
         RecordBook recordBook=new RecordBook();
         recordBook.info.print();
-}
+    }   
 } 
